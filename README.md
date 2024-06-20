@@ -1,4 +1,4 @@
-### Olá! Eu sou o Henrique Cezar 👽
+### Hello! I am Henrique Cezar 👽
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-cezar-514399272/)
