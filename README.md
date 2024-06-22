@@ -1,24 +1,33 @@
-### Hello! I am Henrique Cezar 👽
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique Cezar 👽</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heriquix20&color=yellow" alt="Profile views" /> </p>
+
+- 🎓 Computer Science student  <br>
+- 💻 Strengths: Java, SpringBoot, SQL <br>
+- 🚀 Activities: Spend time studying and creating personal projects <br>
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp; <br>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; <br>
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heriquix20&show_icons=true&theme=dark) <br>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-cezar-514399272/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriquix_20z/)
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@henriquix20)
+## 📧 Social Links
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-cezar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hcgv1@hotmail.com)
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Heriquix20&show_icons=true&theme=merko)
 
-## Tecnologias que eu uso
 
-<div style = "display inline_block"><br/> 
-  
-<img align = "center" alt= "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align = "center" alt= "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align = "center" alt= "Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align = "center" alt= "SpringBoot" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img align = "center" alt= "MySQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div><br>
 
-Estudante de programação, atualmente no curso de Ciência da Computação. Tenho conhecimento básico em Java, Spring e MySQL, e estou ansioso para expandir essas habilidades enquanto pratico criando projetos diversos. Estou motivado para contribuir com projetos significativos e continuar aprendendo e crescendo profissionalmente.
 
-## Contato
-<img align = "center" alt= "hcgv1@hotmail.com" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
