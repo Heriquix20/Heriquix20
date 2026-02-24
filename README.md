@@ -17,11 +17,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heriquix20&show_icons=true&theme=dark) <br>
-
-
 ## 📧 Social Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-cezar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hcgv1@hotmail.com)
