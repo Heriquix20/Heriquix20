@@ -22,8 +22,8 @@ Computer Science student at UNA (Contagem), currently in my 7th semester, specia
                  
 ### **Connect with me**
 <div>
-<a href = "www.linkedin.com/in/henrique-cezar" target ="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></img></a>
-<a href="mailto:hcgv1@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/henrique-cezar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:hcgv1@hotmail.com?subject=Contact from GitHub&body=Hi Henrique,"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <br>
