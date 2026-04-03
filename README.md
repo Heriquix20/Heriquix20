@@ -3,19 +3,19 @@
 ``Back-end Developer``
 
 ### **About Me**
-Computer Science student at UNA (Contagem), currently in my 7th semester, specializing in Cybersecurity and Back-End Development. I have hands-on experience with networking, firewall configuration, and operating systems (Linux and Windows), along with proficiency in Java and SQL. I am focused on building secure, scalable applications and continuously expanding my technical expertise through practical projects and real-world problem solving.
-
+Computer Science student, currently in my 7th semester, specializing in Cybersecurity and Back-End Development. <br>
+I have hands-on experience with networking, firewall configuration, and operating systems (Linux and Windows), along with proficiency in Java, SpringBoot and SQL.
 ##
 
-### 🤖**Language and Tools**
+### **Language and Tools**
 <div style="display: inline_block"> <br>
-<img height = 40 width = 50 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height = 40 width = 50 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height = 40 width = 50 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height = 40 width = 50 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height = 40 width = 50 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height = 40 width = 50 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height = 40 width = 50 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" />&nbsp;&nbsp;&nbsp;
+<img height = 35 width = 35 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = 35 width = 35 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = 35 width = 35 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = 35 width = 35 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = 35 width = 35 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = 35 width = 35 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = 35 width = 35 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ##
